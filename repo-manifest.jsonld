@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/nats-io/nats.py/commit/6ffd84ce78b71a50076427c11168ede2de87534e",
       "git:hexsha": "6ffd84ce78b71a50076427c11168ede2de87534e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T00:28:10.815899+00:00"
     },
     {
       "@id": "https://repolex.ai/r/nats-io/nats.py/commit/00b53dd276eca61ab2f6cf541d608e4766453005",
